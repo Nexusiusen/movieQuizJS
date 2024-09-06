@@ -1,0 +1,24 @@
+#dataDisplay
+{
+	border-style: solid;
+	border-width: 1px;
+	padding: 2.5%;
+	width: 45%;
+}
+
+#dataDisplay div 
+{
+	font-size: 100%;
+	background-color: pink;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 40px;
+}
+
+#submitButton
+{
+	
+	margin-left: 15%;
+	margin-top: 20px;
+	font-size: 30px;
+	padding: 10px 20px 10px 20px;
+}

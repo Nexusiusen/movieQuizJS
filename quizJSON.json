@@ -1,0 +1,30 @@
+{
+    "quizData":
+    [
+        {
+            "question":"What is the highest rated entry on IMDB?",
+            "options":[" Breaking Bad", " The shawshank redemption", " The godfather"],
+            "answerIndex":0
+        },
+        {
+            "question":" How many oscars the lord of the rings trilogy won?",
+            "options":[" 0", " 17 ", " 11"],
+            "answerIndex":1
+        },
+        {
+            "question":"Which animated movie is the highest rated on IMDB? ",
+            "options":[" Spirited away", " The lion king", " Wall-E"],
+            "answerIndex":0
+        },
+        {
+            "question":" From what year is the hit movie 12 angry men from?",
+            "options":[" 1947", " 1974", " 1957"],
+            "answerIndex":2
+        },
+        {
+            "question":" What was the first full length animated movie released? ",
+            "options":[" Bambi", " Snow white and the seven dwarfs", " Fantasia"],
+            "answerIndex":1
+        }
+    ]
+}
